@@ -1,17 +1,16 @@
-# semester_project
+Semester Project
 
-A new Flutter project.
+Summary
 
-## Getting Started
+This project is an initial Flutter Web application with a Home Screen and Login Screen. It demonstrates basic navigation and the initial project structure for the approved system.
 
-This project is a starting point for a Flutter application.
+Current stack
 
-A few resources to get you started if this is your first Flutter project:
+Flutter Web / Dart; planned REST API and PostgreSQL.
+Run locally
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+flutter pub get
+flutter run -d chrome
+First checkpoint
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Date: October 15, 2026 | Commit: Initial Flutter Web project
